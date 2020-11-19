@@ -3,6 +3,19 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00B7FF; }
+  color: #00B7FF; 
+}
 
+.list{
+  background-color: aquamarine;
+
+}
+
+.list li{
+  background-color: tomato;
+}
+
+.list li a{
+  background-color: violet;
+}
 /*# sourceMappingURL=style.css.map */
